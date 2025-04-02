@@ -68,5 +68,5 @@ int main(){
     bool a = shortest(arr, sizearr, 0, 0, current_arr, shortest_way);
     printArr(arr);
     return 0;
-    // Success
+    // Pull commad has been used sucessfully
 }
